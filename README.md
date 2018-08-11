@@ -10,4 +10,4 @@ git clone https://github.com/udacity/deep-learning.git
 
 Report added as dlnd_tv_script_generation.html
 
-# Use a GPU instace to train the network
+### Use a GPU instace to train the network
